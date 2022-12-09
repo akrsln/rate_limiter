@@ -1,5 +1,4 @@
-
-#Rate limiter with token bucket algorithm 
+# Rate limiter with token bucket algorithm 
 ```go
 
 import (
